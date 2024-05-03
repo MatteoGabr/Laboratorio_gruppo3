@@ -1,9 +1,9 @@
 # Laboratorio_gruppo3
 
+
 Collaboratore 1: Stefania Bordino<br>
 Collaboratore 2: Davide Botta <br>
 Collaboratore 3: Matteo Gabrielli(manager) <br>
-
 
 Abbiamo scelto di utilizzare delle canzoni che ci piacciono particolarmente.
 Vengono scelte canzoni solo in lingua inglese, una per ogni componente.
